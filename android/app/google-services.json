@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1073199454119",
+    "project_id": "itt632-lab1-2a812",
+    "storage_bucket": "itt632-lab1-2a812.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073199454119:android:a98fbc72ed8e57b3bbc882",
+        "android_client_info": {
+          "package_name": "com.example.hello_cloud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH_PQw3Y8Hxzy8ZZj8W1eFy-Gu5AjPVzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
